@@ -1,4 +1,4 @@
 {
-  "dotcloud", 
+  "sam", 
   "john_doe"
 }
