@@ -1,4 +1,12 @@
-[
-  "dotcloud", 
-  "john_doe"
-]
+{
+  "banned": [
+    "john_doe",
+    "user123",
+    "hacker123"
+  ],
+  "whitelisted": [
+    "good_user",
+    "trusted_user",
+    "admin_user"
+  ]
+}
