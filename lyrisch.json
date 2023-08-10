@@ -1,12 +1,5 @@
-{
-  "banned": [
-    "dotcloud",
-    "user123",
-    "hacker123"
-  ],
-  "whitelisted": [
+[
     "good_user",
     "trusted_user",
     "admin_user"
-  ]
-}
+]
